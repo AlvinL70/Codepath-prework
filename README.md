@@ -44,6 +44,8 @@ I would like to build a fitness tracker for those that are working out and start
 
 Describe any challenges encountered while building the app.
 
+- I had some difficulties navigating XCode and figuring out where the features were. 
+
 ## License
 
     Copyright [yyyy] [name of copyright owner]
